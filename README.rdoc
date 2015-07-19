@@ -12,7 +12,7 @@ username: admin@hackathon.com
 password: 12345678
 
 Merchant (business/partners)
-http://movenwin.herokuapp.com/admin
+http://movenwin.herokuapp.com/merchant
 
 username: merchant@hackathon.com
 password: 12345678
