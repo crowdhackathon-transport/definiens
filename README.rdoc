@@ -1,34 +1,22 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users
+http://movenwin.herokuapp.com/
 
-Things you may want to cover:
+username: user@hackathon.com
+password: 12345678
 
-* Ruby version
+Admin (OASA)
+http://movenwin.herokuapp.com/admin
 
-* System dependencies
+username: admin@hackathon.com
+password: 12345678
 
-* Configuration
+Merchant (business/partners)
+http://movenwin.herokuapp.com/admin
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+username: merchant@hackathon.com
+password: 12345678
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
 
-== Install PostGIS in Ubuntu
-1. sudo aptitude install postgres postgis postgres-9.3-postgis
-2. createdb -U postgres postgis_db
-3. run command psql -d cities -f /usr/share/postgresql/8.4/contrib/postgis-1.5/postgis.sql
-4. run command psql -d cities -f /usr/share/postgresql/8.4/contrib/postgis-1.5/spatial_ref_sys.sql
+
